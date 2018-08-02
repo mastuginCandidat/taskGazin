@@ -1,5 +1,7 @@
 package Pages;
 
+import com.codeborne.selenide.Configuration;
+
 import static com.codeborne.selenide.Selectors.byAttribute;
 import static com.codeborne.selenide.Selectors.byCssSelector;
 import static com.codeborne.selenide.Selenide.$;

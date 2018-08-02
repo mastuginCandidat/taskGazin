@@ -8,7 +8,6 @@ import org.testng.annotations.Test;
 import static com.codeborne.selenide.Selenide.open;
 
 public class findGazinAndFollowByYandexTest {
-
     @BeforeClass
     public void beforeClass() {
         Configuration.browser = "chrome";
